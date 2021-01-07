@@ -8,4 +8,4 @@ We performed exploratory data analyses, and then used 6 quantitative predictors 
 2) JHM (rank based)
 3) Generalized additive model (GAM)
 
-We assessed the model fit of each model, and ultimately proposed the use of a GAM model as our final model.  Specifically, this model predicts diamond price (actually the log of diamond price) using depth, length, width, carat, color, and clarity (with a smoothing spline on length and width). 
+We assessed the model fit of each model, and ultimately proposed the use of a GAM model as our final model.  Specifically, our proposed model predicts diamond price (actually the log of diamond price) using depth, length, width, carat, color, and clarity (with a smoothing spline on length and width). 
