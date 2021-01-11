@@ -1,6 +1,6 @@
 # Predicting Diamond Price
 
-In the Nonparametric Statistics course that I took as an undergraduate, I worked with two other students to predict the prices of diamonds.  
+I worked with two fellow peers in STAT-225 Nonparametric Statistics to predict the prices of diamonds.  
 
 We performed exploratory data analyses, and then used 6 quantitative predictors and 3 qualitative predictors to fit three different regression models: 
 
