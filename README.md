@@ -14,4 +14,4 @@ We assessed the model fit of each model, and ultimately proposed the use of a GA
 
 The repository contains files pertaining to a project report and to a project presentation.
 
-  - Report: (report.Rmd)[https://github.com/nfrontero20/predicting-diamond-price/blob/master/report.Rmd]
+  - Report: [report.Rmd](https://github.com/nfrontero20/predicting-diamond-price/blob/master/report.Rmd)
